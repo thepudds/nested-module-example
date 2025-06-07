@@ -1,6 +1,6 @@
 package nested1
 
-import root "github.com/thepudds/nested-module-example"
+import root "github.com/thepudds/nested-module-example/v2"
 
 const Name = "nested1"
 
