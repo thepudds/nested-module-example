@@ -50,4 +50,4 @@ The current basic repo structure (ignoring some auxillary files like go.sum):
       * `module github.com/thepudds/nested-module-example/contrib/nested2/v2`
       * `module github.com/thepudds/nested-module-example/contrib/nested3/v2`
       * These were tagged `contrib/nested1/v2.0.0` and similar for nested2 and nested3
-4. Then the top-level module was moved to v2.0.1 with some example package doc links were added to the [contrib](https://pkg.go.dev/github.com/thepudds/nested-module-example/v2/contrib) package.
+4. Then the top-level module was moved to v2.0.2 with some example package doc links added to the [contrib](https://pkg.go.dev/github.com/thepudds/nested-module-example/v2/contrib) package.
